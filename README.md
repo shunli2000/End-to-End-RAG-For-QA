@@ -53,7 +53,7 @@ This project [11711-assignment-2](https://github.com/Bernie-cc/11711-assignment-
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Bernie-cc/11711-assignment-2.git
+git clone https://github.com/shunli2000/End-to-End-RAG-For-QA.git
 ```
 
 2. Install the required packages
